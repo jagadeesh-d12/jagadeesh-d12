@@ -1,7 +1,7 @@
 ## Hi there 👋 This is Jagadeesh
 
 <img align="right" width="370" height="290" src="https://cdn.dribbble.com/users/193120/screenshots/2243272/media/bef10934dfcc589e70f16301b1b47147.gif">
-- 🔭 Here's my [portfolio](https://jagadeesh12.my.canva.site/)  
+ - 🔭 Here's my [portfolio](https://jagadeesh12.my.canva.site/)  
 
 <!--
 **jagadeesh-d12/jagadeesh-d12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
