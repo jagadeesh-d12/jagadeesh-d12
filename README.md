@@ -1,6 +1,6 @@
 ## Hi there 👋 This is Jagadeesh
 
-<img align="right" width="370" height="290" src="https://cdn.dribbble.com/users/77121/screenshots/16981606/media/68499b6daf3f2cb267ad54e307de9c73.gif">
+<img align="right" width="370" height="290" src=["https://cdn.dribbble.com/users/77121/screenshots/16981606/media/68499b6daf3f2cb267ad54e307de9c73.gif"]>
  - 🔭 Here's my [portfolio](https://jagadeesh12.my.canva.site/)  
 
 <!--
